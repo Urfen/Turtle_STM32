@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\..\Motor_test\Motor_test.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\Pwm_test\Pwm_test.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Turtle.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\Uart_test\Uart_test.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
